@@ -1,0 +1,22 @@
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Automotive\bin\Debug\netcoreapp2.2\Automotive.deps.json
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Automotive\bin\Debug\netcoreapp2.2\Automotive.runtimeconfig.json
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Automotive\bin\Debug\netcoreapp2.2\Automotive.runtimeconfig.dev.json
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Automotive\bin\Debug\netcoreapp2.2\Automotive.dll
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Automotive\bin\Debug\netcoreapp2.2\Automotive.pdb
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Automotive\obj\Debug\netcoreapp2.2\Automotive.csprojAssemblyReference.cache
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Automotive\obj\Debug\netcoreapp2.2\Automotive.csproj.CoreCompileInputs.cache
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Automotive\obj\Debug\netcoreapp2.2\Automotive.AssemblyInfoInputs.cache
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Automotive\obj\Debug\netcoreapp2.2\Automotive.AssemblyInfo.cs
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Automotive\obj\Debug\netcoreapp2.2\Automotive.dll
+C:\D-Drive\Abhishek\salarySlip\Code Samples\SortAnArray\Automotive\obj\Debug\netcoreapp2.2\Automotive.pdb
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Automotive\bin\Debug\netcoreapp2.2\Automotive.deps.json
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Automotive\bin\Debug\netcoreapp2.2\Automotive.runtimeconfig.json
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Automotive\bin\Debug\netcoreapp2.2\Automotive.runtimeconfig.dev.json
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Automotive\bin\Debug\netcoreapp2.2\Automotive.dll
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Automotive\bin\Debug\netcoreapp2.2\Automotive.pdb
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Automotive\obj\Debug\netcoreapp2.2\Automotive.csprojAssemblyReference.cache
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Automotive\obj\Debug\netcoreapp2.2\Automotive.csproj.CoreCompileInputs.cache
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Automotive\obj\Debug\netcoreapp2.2\Automotive.AssemblyInfoInputs.cache
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Automotive\obj\Debug\netcoreapp2.2\Automotive.AssemblyInfo.cs
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Automotive\obj\Debug\netcoreapp2.2\Automotive.dll
+C:\D-Drive\Abhishek\salarySlip\Assignment\CodeFiles\Automotive\obj\Debug\netcoreapp2.2\Automotive.pdb
